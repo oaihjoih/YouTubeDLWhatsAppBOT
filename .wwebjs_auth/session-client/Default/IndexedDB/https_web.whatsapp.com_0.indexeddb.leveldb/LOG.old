@@ -1,0 +1,19 @@
+2024/09/03-01:15:27.188 f46 Reusing MANIFEST /workspaces/YouTubeDLWhatsAppBOT/.wwebjs_auth/session-client/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/03-01:15:27.189 f46 Recovering log #575
+2024/09/03-01:15:27.203 f46 Reusing old log /workspaces/YouTubeDLWhatsAppBOT/.wwebjs_auth/session-client/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000575.log 
+2024/09/03-01:15:28.968 f44 Level-0 table #583: started
+2024/09/03-01:15:29.006 f44 Level-0 table #583: 223383 bytes OK
+2024/09/03-01:15:29.024 f44 Delete type=0 #575
+2024/09/03-01:15:29.025 f44 Manual compaction at level-0 from '\x00x\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00y\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/03-01:15:30.846 f4f Compacting 1@1 + 4@2 files
+2024/09/03-01:15:31.086 f4f Generated table #584@1: 85460 keys, 2234267 bytes
+2024/09/03-01:15:31.299 f4f Generated table #585@1: 27083 keys, 2194632 bytes
+2024/09/03-01:15:31.648 f4f Generated table #586@1: 68832 keys, 2223277 bytes
+2024/09/03-01:15:31.756 f4f Generated table #587@1: 21290 keys, 395546 bytes
+2024/09/03-01:15:31.757 f4f Compacted 1@1 + 4@2 files => 7047722 bytes
+2024/09/03-01:15:31.777 f4f compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/09/03-01:15:31.778 f4f Delete type=2 #583
+2024/09/03-01:15:31.778 f4f Delete type=2 #579
+2024/09/03-01:15:31.778 f4f Delete type=2 #580
+2024/09/03-01:15:31.778 f4f Delete type=2 #577
+2024/09/03-01:15:31.778 f4f Delete type=2 #578

@@ -1,27 +1,26 @@
 {
-  "name": "youtubedlbot",
+  "name": "whatsapp-torrent-bot",
   "version": "1.0.0",
-  "description": "YouTubeDLBOT by DrelezTM",
+  "description": "A WhatsApp bot that handles torrent downloads, chunking, and movie scraping.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ."
+    "start": "node index.js"
   },
-  "keywords": [
-    "nodejs",
-    "whatsapp-web.js",
-    "ytdlbot",
-    "youtubedownloader",
-    "dreleztm"
-  ],
-  "author": "DrelezTM",
-  "license": "MIT",
   "dependencies": {
-    "colors": "^1.4.0",
-    "fs": "^0.0.1-security",
-    "moment-timezone": "^0.5.43",
+    "whatsapp-web.js": "^1.18.1",
     "qrcode-terminal": "^0.12.0",
-    "whatsapp-web.js": "^1.23.1-alpha.5",
-    "ytdl-core": "^4.11.5"
-  }
+    "moment-timezone": "^0.5.43",
+    "colors": "^1.4.0",
+    "fs": "0.0.1-security",
+    "webtorrent": "^1.10.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "crypto": "^1.0.1",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "author": "Fahd",
+  "license": "ISC"
 }
